@@ -7,17 +7,18 @@
 저희는 뛰어난 인공지능 연구자가 필요합니다. 뿐만 아니라, 튼튼한 전산, 수학 배경을 가진 열정적인 Fast Learner도 찾고 있습니다. 출신 학교나 자격증, 영어 점수 등의 조건과 상관없이 진짜 “실력”을 갖춘 분들이라면 모두 환영합니다! 저희가 원하는 분들은 이런 분들입니다:
 
 ### Strong Engineer
- - IOI, ICPC, DEFCON, IPSC, TCO 등에서 국내 최상위 수준 성과를 이룬 사람.
- - Github의 누적 star 개수가 200개 이상인 사람.
+ - IOI, ICPC, DEFCON, IPSC, TCO 등에서 국내 최상위 수준의 성과
+ - Github의 누적 star 개수가 200개 이상
 
 ### Powerful Researcher
- - NIPS, CVPR, AAAI, ICML, ICLR, EMNLP, KDD 등 최상위 학회나 저널에 논문을 게재했거나 Google Scholar Citations 100 이상인 사람
+ - NIPS, CVPR, AAAI, ICML, ICLR, EMNLP, KDD 등 최상위 학회나 저널에 논문을 게재
+ - Google Scholar Citations 100 이상
 
 ### Brilliant Theorist
- - IMO, Project Euler, IPhO에서 국내외 최상위 수준 성과를 이룬 사람
+ - IMO, Project Euler, IPhO에서 국내외 최상위 수준의 성과
 
 ### AI Geek
- - ILSVRC, WMT, Kaggle 등에서 최상위 수준의 성과를 이룬 사람
+ - ILSVRC, WMT, Kaggle 등에서 최상위 수준의 성과
 
 이런 조건을 갖춘 사람들이 모을 수 있냐구요? 이미 위의 조건을 만족하는 사람들이 모여있습니다. 위의 분류에 속한 사람이 아니더라도, "나는 실력으로는 자신 있다!" 하시는 분들은 모두 환영입니다!
 
